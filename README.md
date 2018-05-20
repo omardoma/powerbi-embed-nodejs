@@ -1,6 +1,8 @@
 # powerbi-embed-nodejs
 
-How to run ?
+Powerbi Embed Integration using Node.js
+
+## How to run ?
 
 1) npm install
 2) npm start
